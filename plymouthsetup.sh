@@ -42,7 +42,7 @@ fi
 
 
 ## Makes the plymouth package
-  git clone https://github.com/frazzlesgrant1994/plymouth.git
+  git clone https://aur.archlinux.org/plymouth.git
   cd plymouth
   makepkg -si 
   cd ..
